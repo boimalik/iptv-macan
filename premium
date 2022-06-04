@@ -40,26 +40,26 @@ http://akudandia.xyz/locs/akudandia-205.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-logo="https://www.dropbox.com/s/0hw8az7ptafhhsw/vip.png?dl=1" group-title="LOKAL 1",RCTI (plus)
 https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_64000=2-avc1_100000=8.m3u8
-#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI.MACAN" group-title="LOKAL FTA" tvg-logo="https://cdn.macan.tv/img/rcti.jpg", RCTI
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI.MACAN" group-title="LOKAL 1" tvg-logo="https://cdn.macan.tv/img/rcti.jpg", RCTI
 http://202.150.161.116:80/RCTI/tracks-v1a1/mono.m3u8?ruangtv.m3u8?bukuantv=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
 
 #EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV.MACAN" group-title="LOKAL 1" tvg-logo="https://www.dropbox.com/s/0hw8az7ptafhhsw/vip.png?dl=1",GTV (plus)
 https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-mp4a_64000=2-avc1_800000=6.m3u8
 https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021.m3u8
-#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV.MACAN" group-title="LOKAL FTA" tvg-logo="https://cdn.macan.tv/img/gtv.png", GTV
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV.MACAN" group-title="LOKAL 1" tvg-logo="https://cdn.macan.tv/img/gtv.png", GTV
 http://mvtv.tech:33210/live/Haura/12345/3772.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-name="mnctv.MACAN" group-title="LOKAL 1" tvg-logo="https://www.dropbox.com/s/0hw8az7ptafhhsw/vip.png?dl=1" group-title="LOKAL 1",MNCTV (Plus)
 https://d1akid76fpbq4x.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-mp4a_64000=2-avc1_800000=6.m3u8
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV.MACAN" group-title="LOKAL FTA" tvg-logo="https://cdn.macan.tv/img/mnctv.png", MNCTV
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV.MACAN" group-title="LOKAL 1" tvg-logo="https://cdn.macan.tv/img/mnctv.png", MNCTV
 http://mvtv.tech:33210/live/Haura/12345/3771.m3u8
 
 #EXTINF:-1 tvg-id="inews" tvg-logo="https://www.dropbox.com/s/0hw8az7ptafhhsw/vip.png?dl=1" group-title="LOKAL 1",INEWS (Plus)
 https://d1akid76fpbq4x.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 https://d1akid76fpbq4x.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-mp4a_64000=2-avc1_100000=8.m3u8
-#EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="iNewsTV.MACAN" group-title="LOKAL FTA" tvg-logo="https://cdn.macan.tv/img/inews.png", iNews
+#EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="iNewsTV.MACAN" group-title="LOKAL 1" tvg-logo="https://cdn.macan.tv/img/inews.png", iNews
 http://mvtv.tech:33210/live/Haura/12345/107.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0hw8az7ptafhhsw/vip.png?dl=1" group-title="LOKAL 1",O CHANNEL
@@ -95,7 +95,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 #EXTINF:-1 tvg-id="Erz.jaktv" tvg logo="https://www.dropbox.com/s/0hw8az7ptafhhsw/vip.png?dl=1" group-title="LOKAL 1",Jak TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 
-#EXTINF:-1 tvg-id="JTV.MACAN" tvg-name="JTV.MACAN" group-title="LOKAL 1" tvg-logo="https://www.dropbox.com/s/0hw8az7ptafhhsw/vip.png?dl=1",JTV
+#EXTINF:-1 tvg-id="JTV.MACAN" tvg-name="JTV.MACAN" group-title="LOKAL 1" tvg-logo="https://www.dropbox.com/s/0hw8az7ptafhhsw/vip.png?dl=1", JTV
 http://rr3.dens.tv/s/s91/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0hw8az7ptafhhsw/vip.png?dl=1" group-title="LOKAL 1",MEGASWARA TV
