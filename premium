@@ -497,7 +497,7 @@ https://anevia114.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-kids.png",Cinemachi Kids
-https://anevia114.mncnow.id/live/eds/Cinemachi-Kids/sa_dash_vmx/Cinemachi-Kids.mpd
+https://anevia114.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
@@ -771,7 +771,7 @@ https://anevia114.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png",Cinemachi HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png",Cinemachi
 https://anevia114.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -782,12 +782,12 @@ https://anevia114.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Acti
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-max.png",Cinemachi Max
-https://anevia114.mncnow.id/live/eds/Cinemachi-Max/sa_dash_vmx/Cinemachi-Max.mpd
+https://anevia114.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png",Cinemachi Xtra
-https://anevia114.mncnow.id/live/eds/Cinemachi-Xtra/sa_dash_vmx/Cinemachi-Xtra.mpd
+https://anevia114.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",Cinemax
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
@@ -937,6 +937,89 @@ https://cdn09jtedge.useetv.com/ateme/dash/FLIK/manifest.mpd?encoded&encoded=0fbd
 
 EXTINF:-1 tvg-id="SinemaIndonesia.id" tvg-logo="https://i.ibb.co/F4q8K6H/sinema-indonesia-modified-1.png" group-title="Movies",Sinema Indonesia
 http://203.77.246.50:5000/udp/239.1.1.74:5000
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="Movies", BOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505" group-title="Movies", HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
+https://aqfadtv.xyz/live/hbo/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png" group-title="Movies", CINEMAX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="Movies", SHOWCASE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122" group-title="Movies", HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="Movies", HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=550768&extension=m3u8&play_token=xdbt7BgLik683156
+
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch510_425_305" group-title="Movies", WARNER TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png" group-title="Movies", Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
+
+<----------------------------------- HBO MAX --------------------------------------->
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 1
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095496&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 2
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095495&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 3
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095494&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 4
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095493&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 5
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095492&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 6
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095491&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 7
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095490&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 8
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095489&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 9
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095488&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 10
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095487&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 11
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095486&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 12
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095485&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 13
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095484&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 14
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095483&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 15
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095482&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 16
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095481&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="HBO MAX", HBO MAX 17
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095480&extension=m3u8&play_token=go_ott
 
 
 <----------------------------------- Pluto Channel --------------------------------------->
