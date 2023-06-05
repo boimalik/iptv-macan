@@ -257,8 +257,6 @@ https://anevia114.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 https://anevia114.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 
-
-
 <----------------------------------- HIBURAN & GAYA HIDUP --------------------------------------->
 
 
@@ -754,7 +752,6 @@ https://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
 https://anevia114.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FHWBPcG/gem.png" group-title="Movies" ,GEM
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
@@ -880,6 +877,7 @@ https://anevia114.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Anak² & Kartun" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/IndiKids.png",Indi Kids
+http://beetv.my.id/x/usee-indikids-gojokkk.m3u8
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279034
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/800px-Spacetoon.png" group-title="Anak² & Kartun",Spacetoon
@@ -901,10 +899,14 @@ http://181.78.4.10:45000/play/a01b
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165075
 
 #EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://i.postimg.cc/W3qp3X79/logo-dreamworks-big1.png" group-title="Anak² & Kartun",DreamWorks 
+http://beetv.my.id/x/usee-dreamworks-gojokkk.m3u8
 http://190.60.39.198:8000/play/a09f/index.m3u8
 http://181.78.21.206:8000/play/a09f/index.m3u8
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941656&extension=ts&play_token=1kEm8DbZmS
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="Anak² & Kartun",HOREE
+http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -923,6 +925,9 @@ https://mooncang.my.id/api/vidio/ch.m3u8?id=8237&code=mentari-tv
 http://203.29.26.22:8000/play/a05m/index.m3u8
 https://iptv.mwafa.net/vidio/8237/index.m3u8?token=1999
 
+#EXTINF:-1 tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png" group-title="Anak² & Kartun",Lingua
+http://beetv.my.id/x/usee-lingua-gojokkk.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ902pT3/EBS-KIDS.png" group-title="Anak² & Kartun",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
 
@@ -931,9 +936,6 @@ http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcN8qwJ9/LALE.png" group-title="Anak² & Kartun",Lale
 http://stream.atr.ua/lale//live/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="Anak² & Kartun",HOREE
-http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Lfqxhc/AKARAM-KIDS.png" group-title="Anak² & Kartun",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
@@ -1000,6 +1002,7 @@ https://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="Anime",ANIPLUS
+http://beetv.my.id/x/usee-aniplus-gojokkk.m3u8
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
 http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
 
@@ -1771,8 +1774,6 @@ https://v2.siar.us:443/ammedia/live/ammedia/144/chunks.m3u8
 https://bravo.kugo.id/nuchannel/udp.stream_360p/playlist.m3u8
 
 
-
-
 <----------------------------------- MALAYSIA Channel --------------------------------------->
 
 #EXTM3U
@@ -1843,7 +1844,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Lokal",SCTV
 http://210.210.155.35/session/739816c2-dfd9-11ec-b03a-b82a72d63267/qwr9ew/s/s03/02.m3u8
 
-#EXTINF:-1 tvg-id=""ANTV.id" tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Lokal", ANTV
+#EXTINF:-1 tvg-id=""ANTV.id" tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Lokal",ANTV
+https://beetv.my.id/x/oxygen-antv-gojokkk.m3u8
 http://rr2.dens.tv/s/s07/index.m3u8
 http://203.29.26.22:8000/play/a06x/index.m3u8
 
@@ -1854,19 +1856,23 @@ http://bravo.kugo.id:1935/nettv/udp.stream/chunklist_w2049363898.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vid.id/I5QlX5A46bifAC7ib269aQhzP3Q=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Lokal",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_shareExt_b744100_sleng.m3u8
 
-EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vid.id/I5QlX5A46bifAC7ib269aQhzP3Q=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Lokal",Trans TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vid.id/I5QlX5A46bifAC7ib269aQhzP3Q=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Lokal",Trans TV
+https://beetv.my.id/x/oxygen-transtv-gojokkk.m3u8
 http://203.29.26.22:8000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vid.id/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Lokal",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 
-EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vid.id/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Lokal",Trans 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vid.id/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Lokal",Trans 7
+https://beetv.my.id/x/oxygen-trans7-gojokkk.m3u8
 http://203.29.26.22:8000/play/a065/index.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://thumbor.prod.vid.id/ydRJrj3WJ-ycS2KJw19CZn6XQkg=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="Lokal",METRO TV
+https://beetv.my.id/x/oxygen-metrotv-gojokkk.m3u8
 http://203.29.26.22:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://thumbor.prod.vid.id/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="Lokal",KOMPAS TV
+https://beetv.my.id/x/oxygen-kompastv-gojokkk.m3u8
 http://203.29.26.22:8000/play/a05n/index.m3u8
 
 #EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://thumbor.prod.vid.id/LbunykRPWkmRYi-RN4xt9EMf9_E=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/d658d0.png" group-title="Lokal",TVONE
@@ -1887,6 +1893,7 @@ http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
 #http://203.29.26.22:8000/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://thumbor.prod.vid.id/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="Lokal",RTV
+https://beetv.my.id/x/oxygen-rtv-gojokkk.m3u8
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/05.m3u8
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.ibb.co/c3dqtrG/Logo-CNN-Indonesia-Peta-Indonesia-modified.png" group-title="Lokal",CNN Indonesia
@@ -1908,6 +1915,7 @@ EXTINF:-1 tvg-id="TVEdukasi.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Mm-q
 http://118.98.229.118:1935/live/tve.stream/chunklist_w1225135328.m3u8
 
 #EXTINF:-1 tvg-id="DaAiTVIndonesia.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="Lokal",DAAI TV
+https://beetv.my.id/x/oxygen-daaitv-gojokkk.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/bf3a76722204472aa45938f2b67ef808/chunklist_b4628000.m3u8?p=79&s=1653916691&e=1653916811&h=1879f03e91e0a4f37e400d7c7fdae1fc
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.ibb.co/0MSdf50/bfecbc-modified.png" group-title="Lokal",Nusantara TV
@@ -1942,7 +1950,7 @@ http://122.248.43.138:1935/ch6/myStream/chunklist_w503404370.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?dl=0" group-title="TV Indonesia",SCTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?dl=0" group-title="Lokal",SCTV
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2013,7 +2021,7 @@ http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
 
 #EXTINF:-1  tvg-id="Sakti.id" group-title="TV DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png",SAKTI TV
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
-
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="TV DAERAH", Duta TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
