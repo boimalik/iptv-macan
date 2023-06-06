@@ -539,8 +539,6 @@ https://anevia114.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",Bioskop Indonesia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest?cb=20171225070136",BOO
 https://daddyhd.mammothtv.workers.dev/dash-wv/dashiso/2407/default.mpd
 
@@ -898,12 +896,15 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162511
 http://181.78.4.10:45000/play/a01b
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165075
 
-#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://i.postimg.cc/W3qp3X79/logo-dreamworks-big1.png" group-title="Anak² & Kartun",DreamWorks 
-http://beetv.my.id/x/usee-dreamworks-gojokkk.m3u8
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://i.postimg.cc/W3qp3X79/logo-dreamworks-big1.png" group-title="Anak² & Kartun",DreamWorks
 http://190.60.39.198:8000/play/a09f/index.m3u8
 http://181.78.21.206:8000/play/a09f/index.m3u8
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941656&extension=ts&play_token=1kEm8DbZmS
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Anak² & Kartun",Dreamworks Channel Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="Anak² & Kartun",HOREE
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
