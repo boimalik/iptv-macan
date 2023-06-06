@@ -612,9 +612,6 @@ https://anevia114.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
 https://anevia114.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO
-http://5.255.90.238:5002/play/a014/index.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1003,7 +1000,6 @@ https://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="Anime",ANIPLUS
-http://beetv.my.id/x/usee-aniplus-gojokkk.m3u8
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
 http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
 
@@ -1031,8 +1027,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b2
 #EXTINF:-1 group-title="TRIAL CHANNEL" ",FLIK
 http://beetv.my.id/x/usee-flik-gojokkk.m3u8
 https://beetv.my.id/x/oxygen-flik-gojokkk.m3u8
-
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx1dCIgvK3o6qr0CPrlb1ixs/ts
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="TRIAL CHANNEL",HBO
+http://5.255.90.238:5002/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0KHcvd/Hbo.png" group-title="TRIAL CHANNEL",HBO
+http://175.107.244.52:4457/play/a07o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0KHcvd/Hbo.png" group-title="TRIAL CHANNEL",HBO 2
+http://175.107.244.52:4457/play/a07q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0KHcvd/Hbo.png" group-title="TRIAL CHANNEL",HBO 3
+http://175.107.244.52:4457/play/a07r/index.m3u8
 
 EXTINF:-1 group-title="TRIAL CHANNEL" ,&FLIX
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxwoOJRTRs1b-dcG84gXliYY/ts
